@@ -1,20 +1,5 @@
 const baseUrl = "http://localhost:3050";
 
-const data = [
-  {
-    car_id: 1,
-    name: "ABX",
-    brand: "Tokiota",
-    year_release: "1999"
-  },
-  {
-    car_id: 2,
-    name: "AZE",
-    brand: "Tokiota",
-    year_release: "1995"
-  }
-];
-
 const handleError = response => {
   const error = response.json();
   console.log(error);
