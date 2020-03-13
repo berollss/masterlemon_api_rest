@@ -34,5 +34,29 @@
         "name": "Green Roaster",
         "brand": "HMI",
         "year_release": "1976"
+    },
+    {
+        "car_id": 62,
+        "name": "Berta",
+        "brand": "GIA",
+        "year_release": "2000"
+    },
+    {
+        "car_id": 63,
+        "name": "BertaX",
+        "brand": "GIA",
+        "year_release": "2000"
+    },
+    {
+        "car_id": 64,
+        "name": "aad",
+        "brand": "asd",
+        "year_release": "asd"
+    },
+    {
+        "car_id": 65,
+        "name": "asd",
+        "brand": "asd",
+        "year_release": "asd"
     }
 ]
