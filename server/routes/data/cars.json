@@ -58,5 +58,11 @@
         "name": "asd",
         "brand": "asd",
         "year_release": "asd"
+    },
+    {
+        "car_id": 66,
+        "name": "ABX",
+        "brand": "Tokiota",
+        "year_release": "1999"
     }
 ]
